@@ -73,6 +73,11 @@
     </p>
   </div>
 
+  <div class="profile-stats">
+    <h2 style="color: #007bff; margin-bottom: 20px;">Stats:</h2>
+    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=keshavsingh0407&" alt="keshavsingh0407" /></p>
+  </div>
+
 </div>
 
 </body>
