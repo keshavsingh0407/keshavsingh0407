@@ -1,65 +1,23 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-<meta charset="UTF-8">
-<style>
-  body {
-    font-family: Arial, sans-serif;
-    background-color: #f0f0f0;
-    margin: 0;
-    padding: 0;
-  }
-  .container {
-    max-width: 800px;
-    margin: 50px auto;
-    text-align: center;
-    padding: 20px;
-    background-color: #fff;
-    border-radius: 10px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-  }
-  h1 {
-    color: #333;
-    margin-bottom: 10px;
-  }
-  h2, h3 {
-    color: #007bff;
-    margin-bottom: 20px;
-  }
-  p {
-    color: #666;
-    margin-bottom: 30px;
-  }
-  a {
-    color: #007bff;
-    text-decoration: none;
-  }
-  a:hover {
-    text-decoration: underline;
-  }
-  .social-icons img {
-    margin-right: 10px;
-  }
-</style>
-</head>
-<body>
+<body style="font-family: Arial, sans-serif; background-color: #f0f0f0; margin: 0; padding: 0;">
 
-<div class="container">
-  <h1>Hi 👋, I'm Keshav Singh</h1>
-  <h3>A passionate backend developer from India</h3>
-  <p>I’m currently working at <a href="https://github.com/cogouniverse" target="_blank">Cogoport</a></p>
+<div class="container" style="max-width: 800px; margin: 50px auto; text-align: center; padding: 20px; background-color: #fff; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
+  <h1 style="color: #333; margin-bottom: 10px;">Hi 👋, I'm Keshav Singh</h1>
+  <h3 style="color: #007bff; margin-bottom: 20px;">A passionate backend developer from India</h3>
+  <p style="color: #666; margin-bottom: 30px;">I’m currently working at <a href="https://github.com/cogouniverse" target="_blank" style="color: #007bff; text-decoration: none;">Cogoport</a></p>
 
   <div class="social-icons">
-    <h2>Social:</h2>
+    <h2 style="color: #007bff; margin-bottom: 20px;">Social:</h2>
     <p>
       <a href="https://linkedin.com/in/keshavsingh0407" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" style="margin-right: 10px;"/>
       </a>
     </p>
   </div>
 
   <div class="languages">
-    <h2>Languages:</h2>
+    <h2 style="color: #007bff; margin-bottom: 20px;">Languages:</h2>
     <p>
       <a href="https://kotlinlang.org" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="40" height="40"/>
@@ -77,10 +35,10 @@
   </div>
 
   <div class="frameworks">
-    <h2>Frameworks:</h2>
+    <h2 style="color: #007bff; margin-bottom: 20px;">Frameworks:</h2>
     <p>
-      <a href="https://micronaut.io/" target="_blank" style="display: inline-block; background-color: white; padding: 5px;">
-        <img src="https://imgs.search.brave.com/LDwGYS6IxqtxOZsoxKniMQR4Cg1wB3PyIa6xAGgbjWk/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjg4ODAxNjY4/NTk4MDEyMTNlZDBj/M2UzNmFmNjVmMmIw/NDkyMWYyMjM5MDIw/NTU3ZDQyMGJlMTJk/ZTI5N2E4MS9taWNy/b25hdXQuaW8v" alt="Micronaut" width="40" height="40" style="background-color: white;"/>
+      <a href="https://micronaut.io/" target="_blank">
+        <img src="https://imgs.search.brave.com/LDwGYS6IxqtxOZsoxKniMQR4Cg1wB3PyIa6xAGgbjWk/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjg4ODAxNjY4/NTk4MDEyMTNlZDBj/M2UzNmFmNjVmMmIw/NDkyMWYyMjM5MDIw/NTU3ZDQyMGJlMTJk/ZTI5N2E4MS9taWNy/b25hdXQuaW8v" alt="Micronaut" width="40" height="40"/>
       </a>
       <a href="https://rubyonrails.org" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="Rails" width="40" height="40"/>
@@ -89,8 +47,8 @@
   </div>
 
   <div class="databases">
-    <h2>Databases:</h2>
-    <p> 
+    <h2 style="color: #007bff; margin-bottom: 20px;">Databases:</h2>
+    <p style="color: #666; margin-bottom: 30px;"> 
       <a href="https://www.postgresql.org" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
       </a> 
@@ -101,8 +59,8 @@
   </div>
 
   <div class="tools">
-    <h2>Tools:</h2>
-    <p> 
+    <h2 style="color: #007bff; margin-bottom: 20px;">Tools:</h2>
+    <p style="color: #666; margin-bottom: 30px;"> 
       <a href="https://www.docker.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
       </a> 
@@ -114,10 +72,6 @@
       </a>
     </p>
   </div>
-  
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=keshavsingh0407&show_icons=true&locale=en&layout=compact" alt="keshavsingh0407" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=keshavsingh0407&" alt="keshavsingh0407" /></p>
 
 </div>
 
