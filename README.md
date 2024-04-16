@@ -79,9 +79,9 @@
   <div class="frameworks">
     <h2>Frameworks:</h2>
     <p>
-    <a href="https://micronaut.io/" target="_blank">
-      <img src="https://imgs.search.brave.com/LDwGYS6IxqtxOZsoxKniMQR4Cg1wB3PyIa6xAGgbjWk/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjg4ODAxNjY4/NTk4MDEyMTNlZDBj/M2UzNmFmNjVmMmIw/NDkyMWYyMjM5MDIw/NTU3ZDQyMGJlMTJk/ZTI5N2E4MS9taWNy/b25hdXQuaW8v" alt="Micronaut" width="40" height="40" style="background-color: white;"/>
-    </a>
+      <a href="https://micronaut.io/" target="_blank" style="display: inline-block; background-color: white; padding: 5px;">
+        <img src="https://imgs.search.brave.com/LDwGYS6IxqtxOZsoxKniMQR4Cg1wB3PyIa6xAGgbjWk/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjg4ODAxNjY4/NTk4MDEyMTNlZDBj/M2UzNmFmNjVmMmIw/NDkyMWYyMjM5MDIw/NTU3ZDQyMGJlMTJk/ZTI5N2E4MS9taWNy/b25hdXQuaW8v" alt="Micronaut" width="40" height="40" style="background-color: white;"/>
+      </a>
       <a href="https://rubyonrails.org" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="Rails" width="40" height="40"/>
       </a>
